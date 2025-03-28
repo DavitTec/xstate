@@ -1,0 +1,10 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.fontSize": 12,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "wordWrapColumn",
+  "files.associations": {
+    "*.md": "markdown",
+    "*.html": "html"
+  }
+}

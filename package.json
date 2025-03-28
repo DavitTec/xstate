@@ -1,0 +1,23 @@
+{
+  "name": "xstate",
+  "version": "0.0.1-alpha",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "cz"
+  },
+  "keywords": [
+    "xstate",
+    "internatinal",
+    "global",
+    "country",
+    "cur"
+  ],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.7.0",
+  "devDependencies": {
+    "commitizen": "^4.3.1"
+  }
+}

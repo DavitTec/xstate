@@ -1,10 +1,11 @@
 {
   "name": "xstate",
-  "version": "0.0.2",
+  "version": "0.0.3-0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0",
+    "prelease": "standard-version -p",
     "release": "standard-version",
     "release:minor": "standard-version --release-as minor",
     "release:patch": "standard-version --release-as patch",
